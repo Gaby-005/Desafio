@@ -8,7 +8,7 @@
 
 
 body {
-    background: url(flashcard-imagens/img/bg-desktop.webp);
+    background: url('img/bg-desktop.webp');
     font-family: "Bai jamjuree", sans-serif;
 }
 
@@ -46,7 +46,7 @@ footer {
     font-weight: 700;
 }
 
-.cartao:hover .cartao__conteudo {
+.cartao:active .cartao__conteudo {
     transform: rotateY(180deg);
 }
 

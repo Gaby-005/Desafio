@@ -1,22 +1,22 @@
-criaCartão(
+criaCartao(
     'Programação',
     'O que é JavaScript?',
     'O JavaScript é uma linguagem de programação'
 )
 
-criaCartão(
+criaCartao(
     'Geografia',
     'Qual a capital da Fraça',
     'A capital da França é Paris'
 )
 
-criaCartão(
+criaCartao(
     'Programação',
     'O que é uma função',
     'Uma função é um bloco de códigos que executa uma função'
 )
 
-criaCartão(
+criaCartao(
     'Matemática',
     'Qual é o resultado de 6 x 8?',
     'O resultado é 48'
